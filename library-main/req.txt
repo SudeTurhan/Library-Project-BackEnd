@@ -1,0 +1,5 @@
+django<=4.0
+djangorestframework
+django-filter
+mysqlclient
+django-encrypted-model-fields
